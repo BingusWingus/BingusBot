@@ -20,6 +20,7 @@ Bingus Bot is a simple Discord bot built using the Discord API and the discord.p
 - Invite the bot to your Discord server and grant necessary permissions.
 - Use commands like `!hello` and `!join` in text channels to interact with the bot.
 - Use the `!play` command to make the bot join a voice channel and play audio.
+- To play an audio file, import any ".wav" file to the folder.
 
 ## Configuration
 
